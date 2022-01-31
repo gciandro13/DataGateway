@@ -1,5 +1,4 @@
-﻿// Copyright (c) BKN301 SPA 2021.
-// All Rights Reserved.
+
 using EFDataGateway;
 using Microsoft.EntityFrameworkCore;
 using System;
